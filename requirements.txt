@@ -4,3 +4,4 @@ sqlalchemy
 passlib[bcrypt]
 requests
 pydantic
+# updated timestamp: 21 June 2025
